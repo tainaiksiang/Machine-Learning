@@ -1,2 +1,2 @@
 # Machine-Learning
-This repo contains my BMCS2113 Machine Learning assignment
+This repo contains my BMCS2113 Machine Learning group assignment
